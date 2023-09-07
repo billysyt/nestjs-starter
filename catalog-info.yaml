@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nestjs-starter
+  annotations:
+    github.com/project-slug: billysyt/nestjs-starter
+spec:
+  type: other
+  lifecycle: unknown
+  owner: master
