@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: billysyt/nestjs-starter
 spec:
-  type: other
-  lifecycle: unknown
-  owner: guest
+  type: service
+  owner: user:guest
+  lifecycle: experimental
+
